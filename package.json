@@ -1,0 +1,21 @@
+{
+  "name": "n8hr3-simple-calculator",
+  "version": "1.0.1",
+  "description": "this is simple calculator using typescript and inquire",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "calculator": "index.js"
+  },
+  "author": "khayar",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
